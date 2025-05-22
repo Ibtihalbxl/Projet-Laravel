@@ -30,7 +30,7 @@ DevProfile est une application web développée avec Laravel permettant aux dév
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ton-profil/devprofile.git
+git clone https://github.com/Ibtixalbxl/devprofile.git
 cd devprofile
 
 composer install
